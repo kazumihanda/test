@@ -16,3 +16,10 @@ body {
   border-radius: 4px;
   padding: 10px;
 }
+
+.watanabe_wrap {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    color: red;
+}
