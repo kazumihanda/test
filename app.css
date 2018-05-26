@@ -1,4 +1,12 @@
 body {
-  background-color: #f00;
+  background-color: #eee;
   font-color: #000;
+}
+
+
+/*Card style*/
+.card {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 10px;
 }
